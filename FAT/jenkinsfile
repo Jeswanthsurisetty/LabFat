@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Get the latest code from the remote Github repository
-                git 'https://github.com/yourusername/your-repo.git'
+                git 'https://github.com/Jeswanthsurisetty/LabFat.git'
             }
         }
 
